@@ -1,2 +1,1 @@
 # NRO
-klin livkovega
