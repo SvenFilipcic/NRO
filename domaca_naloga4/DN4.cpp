@@ -122,7 +122,6 @@ int main() {
     auto start_time = std::chrono::high_resolution_clock::now();
     for (int ii = 0; ii < 2000; ii++)
     {
-        // Gauss-Seidel metoda
         for (int i = 0; i < n; i++) {
             double sum = 0.0;
             for (int j = 0; j < n; j++) {
